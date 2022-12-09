@@ -6,15 +6,15 @@ ___
 
 ### Contacts 
 
-* Email - a-astapenko@inbox.ru
+* Email: a-astapenko@inbox.ru
 
-* Telegram - @aaasergeevna
+* Telegram: @aaasergeevna
 
-* Git Hub - https://github.com/aanastasiaaa1
+* Git Hub: https://github.com/aanastasiaaa1
 
 ___
 
-### Skils
+### Skills
 
 * HTML
 * CSS
